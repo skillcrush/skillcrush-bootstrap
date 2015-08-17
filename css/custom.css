@@ -4,9 +4,15 @@ body{
 p{
 	color: #848484;
 }
-h1, .jumbotron h1, .jumbotron p{
+h1, .jumbotron h1, .jumbotron p, .navbar-default .navbar-brand {
 	color:#f26c4f;
 }
+
+/* ----- Navigation ----*/
+.navbar {
+	margin-bottom: 0px;
+}
+
 .btn-custom{
 	background-color: #f26c4f;
 	color:#fff;
